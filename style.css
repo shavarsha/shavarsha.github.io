@@ -68,3 +68,18 @@ ul {
 a {
   color: #0066cc;
 }
+.icon-links {
+  margin: 1rem 0;
+}
+
+.icon-links a {
+  margin-right: 15px;
+  font-size: 1.5rem;
+  color: #841f3a;
+  text-decoration: none;
+}
+
+.icon-links a:hover {
+  color: #c0392b;
+}
+
