@@ -1,74 +1,51 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Varsha Sharma | Researcher</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 2rem;
-      background-color: #fdfdfd;
-      color: #333;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    img {
-      max-width: 200px;
-      border-radius: 50%;
-      margin-bottom: 1rem;
-    }
-    a {
-      color: #0066cc;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      padding-left: 1.2rem;
-    }
-  </style>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+  <div class="container">
+    <aside class="sidebar">
+      <img src="profile.jpg" alt="Profile Photo" class="profile-pic" />
+      <h1>Shavarsha</h1>
+      <p>Ph.D. Candidate<br>NUS</p>
+      <nav>
+        <a href="#about">About</a>
+        <a href="#publications">Publications</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </aside>
 
-  <h1>Dr. Shavarsha</h1>
+    <main class="content">
+      <section id="about">
+        <h2>About Me</h2>
+        <p>
+          I'm Shavarsha, a researcher working at the intersection of machine learning, biosignal processing, and digital health. My current research involves early detection of disease using wearable and non-invasive sensors.
+        </p>
+      </section>
 
-  <!-- 👤 Profile Image -->
-  <img src="profile.jpg" alt="Your Photo">
+      <section id="publications">
+        <h2>Selected Publications</h2>
+        <ul>
+          <li>
+            Sharma, S. et al. <strong>“AF Burden Estimation using CNNs.”</strong> ACM SenSys 2023.
+          </li>
+          <li>
+            Sharma, S. et al. <strong>“Non-invasive Glucose Prediction using VOCs.”</strong> Biosensors Journal, 2024.
+          </li>
+        </ul>
+      </section>
 
-  <!-- 🧬 About Section -->
-  <h2>About Me</h2>
-  <p>
-    I am a researcher in AI for healthcare, currently working on early detection of chronic conditions using wearable and non-invasive sensors.
-    My work combines machine learning, biosignal analysis, and personalized digital health tools.
-  </p>
-
-  <!-- 📚 Publications -->
-  <h2>Selected Publications</h2>
-  <ul>
-    <li>
-      Sharma, S. et al. <strong>“Real-Time Atrial Fibrillation Burden Estimation Using Lightweight CNNs.”</strong>
-      <em>ACM SenSys 2023</em>.
-      <a href="https://doi.org/xxxxxxx" target="_blank">[Link]</a>
-    </li>
-    <li>
-      Sharma, S. et al. <strong>“Breath Biomarkers for Non-Invasive Glucose Estimation.”</strong>
-      <em>Biosensors Journal 2024</em>.
-      <a href="https://doi.org/yyyyyyy" target="_blank">[Link]</a>
-    </li>
-  </ul>
-
-  <!-- 📫 Contact -->
-  <h2>Contact</h2>
-  <p>
-    Email: <a href="mailto:shavarsha@example.com">shavarsha@example.com</a><br>
-    GitHub: <a href="https://github.com/shavarsha">github.com/shavarsha</a><br>
-    LinkedIn: <a href="https://linkedin.com/in/shavarsha">linkedin.com/in/shavarsha</a>
-  </p>
-
+      <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:shavarsha@example.com">shavarsha@example.com</a></p>
+        <p>GitHub: <a href="https://github.com/shavarsha">github.com/shavarsha</a></p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/shavarsha">linkedin.com/in/shavarsha</a></p>
+      </section>
+    </main>
+  </div>
 </body>
 </html>
