@@ -84,6 +84,17 @@ a {
   color: #c0392b;
 }
 
+
+.content .icon-links a {
+  margin-right: 15px;
+  font-size: 1.4rem;
+  color: #841f3a;
+}
+
+.content .icon-links a:hover {
+  color: #c0392b;
+}
+
 /* .pub-buttons {
   margin-top: 0.5rem;
 }
