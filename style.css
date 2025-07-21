@@ -151,9 +151,9 @@ a {
   margin-top: 8px;
   font-size: 14px;
   line-height: 1.4;
-  max-height: 100px;    /* reduce height */
+  max-height: 150px;    /* reduce height */
   overflow-y: auto;     /* scroll if content is longer */
-  max-width: 600px;     /* control the width */
+  max-width: 1000px;     /* control the width */
   background-color: #f9f9f9;
   border: 1px solid #ccc;
   border-radius: 6px;
