@@ -11,7 +11,7 @@ body {
   min-height: 100vh;
 }
 
-.sidebar {
+/* .sidebar {
   background-color: #841f3a;
   color: #fff;
   width: 250px;
@@ -19,6 +19,18 @@ body {
   text-align: center;
   position: sticky;
   top: 0;
+} */
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 250px;        /* or your desired width */
+  height: 100vh;       /* full viewport height */
+  background-color: #841f3a;
+  color: #fff;
+  padding: 2rem 1rem;
+  overflow-y: auto;    /* if content in sidebar is long */
 }
 
 .profile-pic {
