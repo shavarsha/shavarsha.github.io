@@ -25,6 +25,7 @@ body {
   position: fixed;
   top: 0;
 /*   left: 0; */
+  text-align: center;
   width: 230px;        /* or your desired width */
   height: 100vh;       /* full viewport height */
   background-color: #841f3a;
