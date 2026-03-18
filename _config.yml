@@ -1,0 +1,13 @@
+title: Varsha Sharma
+description: AI Researcher in Healthcare | The University of Osaka
+baseurl: ""
+url: "https://shavar.github.io"
+
+theme: minima
+
+header_pages:
+  - research.md
+  - publications.md
+  - patents.md
+
+markdown: kramdown
