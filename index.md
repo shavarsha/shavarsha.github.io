@@ -19,7 +19,7 @@ My work broadly focuses on:
 
 <td width="35%">
 
-<img src="assets/img/IMG_20210224_145017__01.jpg" width="100%" style="border-radius:10px;">
+<img src="/assets/img/IMG_20210224_145017__01.jpg" width="100%" style="border-radius:10px;">
 
 </td>
 </tr>
