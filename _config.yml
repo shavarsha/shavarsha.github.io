@@ -5,6 +5,9 @@ url: "https://shavar.github.io"
 
 theme: minima
 
+plugins:
+  - jekyll-feed
+
 header_pages:
   - research.md
   - publications.md
