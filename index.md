@@ -9,23 +9,10 @@ title: Home
 
 ## Varsha Sharma
 
-AI researcher in healthcare with over **8 years of experience at TCS Research**, working on machine learning systems for biomedical signal analysis, wearable sensing, and real-world health applications.
+I'm an AI researcher passionate about using technology to bring healthcare closer to people. I am working toward causally-grounded, reliable systems that can be trusted in medicine.
 
-Since October 2025, I have been working as a researcher at the **University of Osaka**, where I will begin my PhD in April 2026.
+I spent over 8 years at TCS Research in India developing machine learning systems across biomedical signals, digital biomarker discovery, wearable sensing, and real-time health monitoring. I hold a Masters in Mathematics and Computing from IIT Patna, India. Currently, I'm pursuing my PhD at the Intelligence and Sensing Lab, Department of Computer Science, the University of Osaka, Japan.
 
-My work focuses on building end-to-end AI systems for healthcare, spanning:
-- physiological signal analysis (ECG, cardiovascular monitoring)
-- wearable sensing and on-device intelligence (TinyML)
-- digital biomarkers from non-invasive sensing (VOC-based analysis)
-- clinical prediction using heterogeneous healthcare data
-
----
-
-### Research Areas
-
-- AI for wearable health monitoring  
-- Clinical AI for risk prediction  
-- Digital biomarkers and biochemical sensing  
 
 ---
 
