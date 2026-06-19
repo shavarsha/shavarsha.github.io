@@ -13,7 +13,7 @@ title: Patents
    - United States patent no. , Issue date: 
    - Europe patent no. EP4434462B1, Issue date: Jul 2025
 
-3. **Method and system for monitoring human parameters using hierarchial human activity sensing**, US 12,345,678 B2, issued January 2025.
+3. **Method and system for monitoring human parameters using hierarchial human activity sensing**
    - Inventors: Your Name, Co-Inventor Name
    - Europe patent no. EP4498387B1, Issue date: Jan 2026
      
