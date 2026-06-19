@@ -63,7 +63,7 @@ varsharma.tech@gmail.com
 
 <br><br>
 
-🔗 <a href="[https://linkedin.com/in/YOUR_LINKEDIN_ID](https://www.linkedin.com/in/varsha-sharma-6aa32755/)">LinkedIn</a>
+🔗 <a href="https://www.linkedin.com/in/varsha-sharma-6aa32755/">LinkedIn</a>
 
 </div>
 
