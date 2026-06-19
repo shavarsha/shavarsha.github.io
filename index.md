@@ -7,13 +7,9 @@ title: Home
 
 <div style="flex:1; min-width:300px;">
 
-## Varsha Sharma
+I am a researcher in Artificial Intelligence for Healthcare with over 8 years of industrial research experience. I am currently pursuing my PhD in Computer Science at the University of Osaka, Japan. My research focuses on representation learning and causal reasoning to develop robust, interpretable, and generalizable AI systems. Before joining the University of Osaka, I worked at TCS Research, India, where I developed machine learning and signal processing-based methods for healthcare applications, ranging from sepsis and cardiac abnormality prediction to wearable sensing, digital biomarkers, and real-time inference on edge devices. My work has led to several granted patents. I actively contributes to the research community as a peer reviewer for conferences and journals, including MICCAI, IJCNN, and Machine Learning: Science and Technology, and through my involvement in workshop activities.
 
-I'm an AI researcher passionate about using technology to bring healthcare closer to people. I am working toward causally-grounded, reliable systems that can be trusted in medicine.
-
-I spent over 8 years at TCS Research in India developing machine learning systems across biomedical signals, digital biomarker discovery, wearable sensing, and real-time health monitoring. I hold a Masters in Mathematics and Computing from IIT Patna, India. Currently, I'm pursuing my PhD at the Intelligence and Sensing Lab, Department of Computer Science, the University of Osaka, Japan.
-
-
+<!--
 ---
 
 ### Explore
@@ -30,7 +26,8 @@ I spent over 8 years at TCS Research in India developing machine learning system
 - Email: [varsharma.tech@gmail.com](mailto:varsharma.tech@gmail.com)  
 - LinkedIn: https://www.linkedin.com/in/varsha-sharma-6aa32755  
 - Google Scholar: https://scholar.google.com/citations?user=YOUR_ID  
-- ORCID: https://orcid.org/0000-0000-6685-0508  
+- ORCID: https://orcid.org/0000-0000-6685-0508 
+-->
 
 </div>
 
