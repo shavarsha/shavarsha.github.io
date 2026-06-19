@@ -7,7 +7,7 @@ title: Home
 
 <div style="flex:1; min-width:300px;">
 
-I am a researcher in Artificial Intelligence for Healthcare. I am currently pursuing my PhD in Computer Science at the University of Osaka, Japan. My research focuses on representation learning and causal reasoning to develop robust, interpretable, and generalizable AI systems. Before joining the University of Osaka, I worked at TCS Research, India, for 8 years, where I developed machine learning and signal processing-based methods for healthcare applications, ranging from sepsis and cardiac abnormality prediction to wearable sensing, digital biomarkers, and real-time inference on edge devices. My work has led to several granted patents and I actively contributes to the research community as a reviewer for conferences and journals, including MICCAI, IJCNN, and Machine Learning: Science and Technology.
+I am a researcher in Artificial Intelligence for Healthcare. I am currently pursuing my PhD in Computer Science at the University of Osaka, Japan. My research focuses on representation learning and causal reasoning to develop robust, interpretable, and generalizable AI systems. Before joining the University of Osaka, I worked at TCS Research, India, for 8 years, where I developed machine learning and signal processing-based methods for healthcare applications.
 
 
 <h2>Research Interests</h2><div style="margin-top:15px;">
