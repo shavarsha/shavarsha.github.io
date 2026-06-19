@@ -19,6 +19,12 @@ I am a researcher in Artificial Intelligence for Healthcare with over 8 years of
 <span style="display:inline-block;padding:8px 16px;margin:4px;border:1px solid #0066cc;border-radius:20px;">Digital Biomarkers</span>
 </div>
 
+<p style="font-size:24px;">
+<a href="https://scholar.google.com/citations?hl=en&user=fdnMEAQAAAAJ">🎓</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">🔗</a>
+</p>
+
 <!--
 ---
 
