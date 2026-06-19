@@ -60,9 +60,7 @@ varsharma.tech@gmail.com
 <h3>🔗 Profiles</h3>
 
 🎓 <a href="https://scholar.google.com/citations?hl=en&user=fdnMEAQAAAAJ">Google Scholar</a>
-
 <br><br>
-
 🔗 <a href="https://www.linkedin.com/in/varsha-sharma-6aa32755/">LinkedIn</a>
 
 </div>
