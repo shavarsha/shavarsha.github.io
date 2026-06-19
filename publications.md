@@ -18,7 +18,7 @@ title: Publications
 ---
 
 ### Fulcrum Rebalancing and Hybrid Classification for Multi-class Multi-labeled ECG
-**Authors:** Varsha Sharma, A. Mukherjee, Anirban Dutta Choudhury, C. Bhattacharyya, A. Sinha
+**Authors:** Ayan Mukherjee, Varsha Sharma, Anirban Dutta Choudhury, C. Bhattacharyya, A. Sinha
 **Venue:** International Joint Conference on Neural Networks (IJCNN Workshops)
 **Date:** July 2025
 
