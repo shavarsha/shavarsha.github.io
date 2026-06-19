@@ -38,7 +38,7 @@ Before joining the University of Osaka, I worked at TCS Research, India, for 8 y
 <div style="
 background:#f8f9fa;
 padding:25px;
-border-radius:10px;
+border-radius:8px;
 box-shadow:0 2px 8px rgba(0,0,0,0.08);
 margin-top:20px;
 max-width:750px;
