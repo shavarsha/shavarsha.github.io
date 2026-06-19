@@ -55,7 +55,7 @@ The University of Osaka, Japan
 
 <a href="mailto:varsharma.tech@gmail.com">
 varsharma.tech@gmail.com
-
+</a>
 <a href="mailto:varsha.sharma@is.ids.osaka-u.ac.jp">
 varsha.sharma@is.ids.osaka-u.ac.jp
 </a>
