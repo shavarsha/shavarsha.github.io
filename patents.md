@@ -2,7 +2,8 @@
 layout: default
 title: Patents
 ---
-📜 #Granted Patents
+
+#Granted Patents
 
 1. **Identifying cardiac abnormalities in multi-lead ecgs using hybrid neural network with fulcrum based data re-balancing**<br>
    Inventors: <span style="color:#0066cc;"><strong>Varsha Sharma</strong></span>, Ayan Mukherjee, Varsha Sharma, A Mukherjee, C Bhattacharyya, Anirban Dutta Choudhury, M Poduval, S Khandelwal<br>
