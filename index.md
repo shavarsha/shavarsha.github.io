@@ -19,18 +19,18 @@ I am a researcher in Artificial Intelligence for Healthcare with over 8 years of
 <span style="display:inline-block;padding:8px 16px;margin:4px;border:1px solid #0066cc;border-radius:20px;">Digital Biomarkers</span>
 </div>
 
-<p style="font-size:24px;">
+<!-- <p style="font-size:24px;">
 <a href="https://scholar.google.com/citations?hl=en&user=fdnMEAQAAAAJ">🎓</a>
 &nbsp;
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">🔗</a>
 </p>
 
-<hr style="margin-top:40px;">
+<hr style="margin-top:40px;"> -->
 
 <h2>Contact</h2>
 
 <p>
-I am always interested in discussing research collaborations, AI for Healthcare, Digital Biomarkers, and Machine Learning applications.
+I am always interested in discussing research collaborations.
 </p>
 
 <div style="
@@ -43,7 +43,7 @@ max-width:750px;
 ">
 
 <h3>📍 Location</h3>
-
+Intelligence and Sensing Lab<br>
 Graduate School of Information Science and Technology<br>
 The University of Osaka, Japan
 
@@ -51,8 +51,8 @@ The University of Osaka, Japan
 
 <h3>📧 Email</h3>
 
-<a href="mailto:your_email@domain.com">
-your_email@domain.com
+<a href="mailto:varsharma.tech@gmail.com">
+varsharma.tech@gmail.com
 </a>
 
 <hr>
@@ -63,11 +63,7 @@ your_email@domain.com
 
 <br><br>
 
-💻 <a href="https://github.com/shavarsha">GitHub</a>
-
-<br><br>
-
-🔗 <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">LinkedIn</a>
+🔗 <a href="[https://linkedin.com/in/YOUR_LINKEDIN_ID](https://www.linkedin.com/in/varsha-sharma-6aa32755/)">LinkedIn</a>
 
 </div>
 
