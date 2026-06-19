@@ -9,7 +9,7 @@ title: Publications
 📚 **Google Scholar:** [View Full Publication List](https://scholar.google.com/citations?hl=en&user=fdnMEAQAAAAJ)
 
 * **Can Breath Biomarkers Causally Influence Blood Glucose? Investigating VOC-Mediated Modulation in Diabetes**<br>
-   Varsha Sharma, Prasanta K. Guha, Avik Ghose.<br>
+   <span style="color:#0066cc;"><strong>Varsha Sharma</strong></span>, Prasanta K. Guha, Avik Ghose.<br>
   *IJCAI Workshops*, August 2025.
 
 * **Fulcrum Rebalancing and Hybrid Classification for Multi-class Multi-labeled ECG**<br>
