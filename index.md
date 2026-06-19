@@ -25,6 +25,53 @@ I am a researcher in Artificial Intelligence for Healthcare with over 8 years of
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">🔗</a>
 </p>
 
+<hr style="margin-top:40px;">
+
+<h2>Contact</h2>
+
+<p>
+I am always interested in discussing research collaborations, AI for Healthcare, Digital Biomarkers, and Machine Learning applications.
+</p>
+
+<div style="
+background:#f8f9fa;
+padding:25px;
+border-radius:12px;
+box-shadow:0 2px 8px rgba(0,0,0,0.08);
+margin-top:20px;
+max-width:750px;
+">
+
+<h3>📍 Location</h3>
+
+Graduate School of Information Science and Technology<br>
+The University of Osaka, Japan
+
+<hr>
+
+<h3>📧 Email</h3>
+
+<a href="mailto:your_email@domain.com">
+your_email@domain.com
+</a>
+
+<hr>
+
+<h3>🔗 Profiles</h3>
+
+🎓 <a href="https://scholar.google.com/citations?hl=en&user=fdnMEAQAAAAJ">Google Scholar</a>
+
+<br><br>
+
+💻 <a href="https://github.com/shavarsha">GitHub</a>
+
+<br><br>
+
+🔗 <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">LinkedIn</a>
+
+</div>
+
+
 <!--
 ---
 
