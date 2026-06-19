@@ -11,17 +11,12 @@ I am a researcher in Artificial Intelligence for Healthcare with over 8 years of
 
 
 <h2>Research Interests</h2><div style="margin-top:15px;">
-
+  
 <span style="display:inline-block;padding:8px 16px;margin:4px;border:1px solid #0066cc;border-radius:20px;">Machine Learning for Healthcare</span>
-
 <span style="display:inline-block;padding:8px 16px;margin:4px;border:1px solid #0066cc;border-radius:20px;">Representation Reliability</span>
-
 <span style="display:inline-block;padding:8px 16px;margin:4px;border:1px solid #0066cc;border-radius:20px;">Time-series modelling</span>
-
 <span style="display:inline-block;padding:8px 16px;margin:4px;border:1px solid #0066cc;border-radius:20px;">Wearable Sensing</span>
-
 <span style="display:inline-block;padding:8px 16px;margin:4px;border:1px solid #0066cc;border-radius:20px;">Digital Biomarkers</span>
-
 </div>
 
 <!--
