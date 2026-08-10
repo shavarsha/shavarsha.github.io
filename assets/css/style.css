@@ -1,3 +1,27 @@
+/* Stats row */
+.stats-row {
+  display: flex;
+  gap: 30px;
+  margin: 20px 0 10px 0;
+  flex-wrap: wrap;
+}
+
+.stat-item {
+  text-align: center;
+}
+
+.stat-number {
+  font-size: 26px;
+  font-weight: 700;
+  color: var(--accent);
+  display: block;
+}
+
+.stat-label {
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
 :root {
   --accent: #0066cc;
   --bg-light: #f8f9fa;
