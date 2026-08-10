@@ -9,7 +9,7 @@ title: Home
   </div>
   <div class="stat-item">
     <span class="stat-number">7</span>
-    <span class="stat-label">Patents</span>
+    <span class="stat-label">Granted Patents</span>
   </div>
 </div>
 
