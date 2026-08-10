@@ -14,11 +14,9 @@ title: Home
 </div>
 
 <p>
-Hello! I am a researcher in Artificial Intelligence for Healthcare. I am currently pursuing my PhD in Computer Science at The University of Osaka, Japan. My research focuses on representation learning and causal reasoning to develop robust, interpretable, and generalizable AI systems.<br>
-  
-Before joining the University of Osaka, I worked at TCS Research, India, for 8 years, where I developed machine learning and signal processing-based methods for healthcare applications.<br>
+Hello there! I am an AI researcher with over 8 years of experience building machine learning systems for healthcare sensing and biomedical signal analysis — from raw sensor data to models deployed on edge devices for real-time health monitoring. I am currently a PhD student at the <a href="https://is.d3c.osaka-u.ac.jp/en/">Intelligence and Sensing Lab.</a>, The University of Osaka, Japan, where my work focuses on representation learning and causal reasoning to develop robust, interpretable, and generalizable AI systems.
 
-I began my academic journey with a Bachelor of Engineering in Electronics and Instrumentation from Samrat Ashok Technological Institute, Vidisha, India, followed by a Master of Technology in Mathematics and Computing from Indian Institute of Technology Patna, India.<br>
+Before joining UOsaka, I worked at TCS Research, India. I began my academic journey with a Bachelor of Engineering in Electronics and Instrumentation from Samrat Ashok Technological Institute, Vidisha, India (2013), followed by a Master of Technology in Mathematics and Computing from the Indian Institute of Technology Patna, India (2017).
 </p>
 
 <!-- <a href="/cv.pdf" class="cv-button">📄 Download CV</a> -->
