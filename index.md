@@ -48,7 +48,7 @@ max-width:700px;
 <!-- Intelligence and Sensing Lab<br> -->
 <img src="https://www.google.com/s2/favicons?domain=is.d3c.osaka-u.ac.jp&sz=20"> <a href="https://is.d3c.osaka-u.ac.jp/en/">Intelligence and Sensing Lab</a><br>
 <!-- Graduate School of Information Science and Technology<br> -->
-<a href="https://www.ist.osaka-u.ac.jp/english/">Graduate School of Information Science and Technology</a><br>
+<img src="https://www.google.com/s2/favicons?domain=ist.osaka-u.ac.jp&sz=20"> <a href="https://www.ist.osaka-u.ac.jp/english/">Graduate School of Information Science and Technology</a><br>
 <!-- The University of Osaka, Japan -->
 <a href="https://www.osaka-u.ac.jp/en">The University of Osaka, Japan</a><br>
 
