@@ -53,6 +53,3 @@ I began my academic journey with a Bachelor of Engineering in Electronics and In
   <h3>📧 Email</h3>
   <a href="mailto:varsharma.tech@gmail.com">varsharma.tech@gmail.com</a><br>
   <a href="mailto:varsha.sharma@is.ids.osaka-u.ac.jp">varsha.sharma@is.ids.osaka-u.ac.jp</a>
-
-  <hr>
-
