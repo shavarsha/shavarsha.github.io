@@ -7,7 +7,7 @@ title: Home
   <img src="/assets/img/IMG_20210224_145017__01.jpg" alt="Varsha Sharma" class="profile-photo">
   <div class="profile-intro">
     <h1>Varsha Sharma</h1>
-    <div class="profile-tagline">PhD Candidate, University of Osaka — AI for Healthcare, Causal Representation Learning</div>
+    <div class="profile-tagline">Researcher, AI for Healthcare</div>
     <div class="social-row">
       <a href="https://scholar.google.com/citations?hl=en&user=fdnMEAQAAAAJ">
         <img src="https://www.google.com/s2/favicons?domain=scholar.google.com&sz=32"> Google Scholar
