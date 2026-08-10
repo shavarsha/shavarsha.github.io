@@ -72,7 +72,7 @@ Before joining UOsaka, I worked at <a href="https://www.tcs.com/what-we-do/tcs-r
   </div>
   <div class="highlight-item">
     <div class="highlight-date">Oct 2025</div>
-    <div>Joined the <a href="https://is.d3c.osaka-u.ac.jp/en/">Intelligence and Sensing Lab.</a><br> </div>
+    <div>Joined the Intelligence and Sensing Lab.<br> </div>
   </div>
 </div>
 
