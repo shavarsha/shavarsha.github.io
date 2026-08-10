@@ -4,7 +4,7 @@ title: Home
 ---
 
 <p>
-Hello! I am a researcher in Artificial Intelligence for Healthcare. I am currently pursuing my PhD in Computer Science at the University of Osaka, Japan. My research focuses on representation learning and causal reasoning to develop robust, interpretable, and generalizable AI systems.<br>
+Hello! I am a researcher in Artificial Intelligence for Healthcare. I am currently pursuing my PhD in Computer Science at The University of Osaka, Japan. My research focuses on representation learning and causal reasoning to develop robust, interpretable, and generalizable AI systems.<br>
   
 Before joining the University of Osaka, I worked at TCS Research, India, for 8 years, where I developed machine learning and signal processing-based methods for healthcare applications.<br>
 
@@ -40,20 +40,19 @@ I began my academic journey with a Bachelor of Engineering in Electronics and In
   </div>
   <div class="highlight-item">
     <div class="highlight-date">Oct 2025</div>
-    <div>Joined the Intelligence and Sensing Lab at The University of Osaka as a Researcher</div>
+    <div>Joined the <a href="https://is.d3c.osaka-u.ac.jp/en/">Intelligence and Sensing Lab.</a><br> </div>
   </div>
 </div>
 
 <h2>Contact</h2>
 
 <div class="card">
-  <h3>📍 Location</h3>
+  <!-- <h3>📍 Location</h3>
   <img src="https://www.google.com/s2/favicons?domain=is.d3c.osaka-u.ac.jp&sz=20"> <a href="https://is.d3c.osaka-u.ac.jp/en/">Intelligence and Sensing Lab</a><br>
   <img src="https://www.google.com/s2/favicons?domain=www.ist.osaka-u.ac.jp&sz=20"> <a href="https://www.ist.osaka-u.ac.jp/english/">Graduate School of Information Science and Technology</a><br>
-  <a href="https://www.osaka-u.ac.jp/en">The University of Osaka, Japan</a>
+  <a href="https://www.osaka-u.ac.jp/en">The University of Osaka, Japan</a> -->
 
-  <hr>
-
-  <h3>📧 Email</h3>
-  <a href="mailto:varsharma.tech@gmail.com">varsharma.tech@gmail.com</a><br>
-  <a href="mailto:varsha.sharma@is.ids.osaka-u.ac.jp">varsha.sharma@is.ids.osaka-u.ac.jp</a>
+Intelligence and Sensing Lab.<br>
+2-1 Yamadaoka, Suita, Osaka 565-0871, Japan<br>
+The University of Osaka
+Email: <a href="mailto:varsha.sharma@is.ids.osaka-u.ac.jp">varsha.sharma@is.ids.osaka-u.ac.jp</a>
