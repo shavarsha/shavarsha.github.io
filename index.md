@@ -8,10 +8,6 @@ title: Home
     <span class="stat-label">Years in AI Research</span>
   </div>
   <div class="stat-item">
-    <span class="stat-number">15+</span>
-    <span class="stat-label">Publications</span>
-  </div>
-  <div class="stat-item">
     <span class="stat-number">7</span>
     <span class="stat-label">Patents</span>
   </div>
