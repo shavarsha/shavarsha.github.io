@@ -64,7 +64,7 @@ max-width:700px;
 <img src="https://www.google.com/s2/favicons?domain=scholar.google.com&sz=20"> <a href="https://scholar.google.com/citations?hl=en&user=fdnMEAQAAAAJ">Google Scholar</a><br>
 <img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=20"> <a href="https://www.linkedin.com/in/varsha-sharma-6aa32755/">LinkedIn</a><br>
 <img src="https://www.google.com/s2/favicons?domain=researchgate.net&sz=20"> <a href="https://www.researchgate.net/profile/Varsha-Sharma-12?ev=hdr_xprf">ResearchGate</a><br>
-<img src="https://www.google.com/s2/favicons?domain=orcid.org&sz=20"> <a href="https://orcid.org/my-orcid?orcid=0009-0000-6685-0508">Orcid</a><br>
+<img src="https://www.google.com/s2/favicons?domain=orcid.org&sz=20"> <a href="https://orcid.org/my-orcid?orcid=0009-0000-6685-0508">ORCID</a><br>
 
 
 </div>
