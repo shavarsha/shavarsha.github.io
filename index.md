@@ -38,6 +38,29 @@ I began my academic journey with a Bachelor of Engineering in Electronics and In
   <span class="tag-pill">Digital Biomarkers</span>
 </div>
 
+
+<h2>Experience</h2>
+<div class="card">
+  <div class="exp-item">
+    <span class="exp-date">Oct 2025 – Present</span>
+    <div class="exp-role">PhD Researcher, Computer Science</div>
+    <div class="exp-org">The University of Osaka, Japan — Intelligence and Sensing Lab</div>
+    <div class="exp-desc">Representation Reliability for medical image analysis.</div>
+  </div>
+  <div class="exp-item">
+    <span class="exp-date">Sep 2018 – Sep 2025</span>
+    <div class="exp-role">Researcher</div>
+    <div class="exp-org">TCS Research, India — Connected Digital Health Group</div>
+    <div class="exp-desc">Developed ML solutions for cardiac, stress, and gait sensing deployed on wearable and edge devices.</div>
+  </div>
+  <div class="exp-item">
+    <span class="exp-date">Jul 2017 – Aug 2018</span>
+    <div class="exp-role">Developer</div>
+    <div class="exp-org">TCS Research, India — Embedded Devices & Intelligent Systems Group</div>
+  </div>
+</div>
+
+
 <h2>Highlights</h2>
 <div class="card">
   <div class="highlight-item">
