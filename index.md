@@ -53,7 +53,7 @@ The University of Osaka, Japan
 
 <h3>📧 Email</h3>
 
-<a href="mailto:varsharma.tech@gmail.com">
+<a href="mailto:varsharma.tech@gmail.com"><br><br>
 varsharma.tech@gmail.com
 </a>
 
