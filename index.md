@@ -3,28 +3,6 @@ layout: default
 title: Home
 ---
 
-<div class="profile-header">
-  <img src="/assets/img/IMG_20210224_145017__01.jpg" alt="Varsha Sharma" class="profile-photo">
-  <div class="profile-intro">
-    <h1>Varsha Sharma</h1>
-    <div class="profile-tagline">Researcher, AI for Healthcare</div>
-    <div class="social-row">
-      <a href="https://scholar.google.com/citations?hl=en&user=fdnMEAQAAAAJ">
-        <img src="https://www.google.com/s2/favicons?domain=scholar.google.com&sz=32"> Google Scholar
-      </a>
-      <a href="https://www.linkedin.com/in/varsha-sharma-6aa32755/">
-        <img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=32"> LinkedIn
-      </a>
-      <a href="https://www.researchgate.net/profile/Varsha-Sharma-12?ev=hdr_xprf">
-        <img src="https://www.google.com/s2/favicons?domain=researchgate.net&sz=32"> ResearchGate
-      </a>
-      <a href="https://orcid.org/my-orcid?orcid=0009-0000-6685-0508">
-        <img src="https://www.google.com/s2/favicons?domain=orcid.org&sz=32"> ORCID
-      </a>
-    </div>
-  </div>
-</div>
-
 <p>
 I am a researcher in Artificial Intelligence for Healthcare. I am currently pursuing my PhD in Computer Science at the University of Osaka, Japan. My research focuses on representation learning and causal reasoning to develop robust, interpretable, and generalizable AI systems.<br>
   
