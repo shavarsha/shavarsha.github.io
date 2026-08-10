@@ -27,16 +27,20 @@ I began my academic journey with a Bachelor of Engineering in Electronics and In
 <h2>Highlights</h2>
 <div class="card">
   <div class="highlight-item">
-    <div class="highlight-date">Jul 2026</div>
+    <div class="highlight-date">Aug 2026</div>
     <div>Co-organizing workshop "Multimodal AI for Science and Real World" at ACCV 2026</div>
   </div>
   <div class="highlight-item">
-    <div class="highlight-date">Jul 2026</div>
+    <div class="highlight-date">Jun 2026</div>
     <div>Co-organizing workshop "Automated Machine Learning for Pervasive Sensing" at IEEE PERCOM 2027</div>
+  </div>
+    <div class="highlight-item">
+    <div class="highlight-date">Apr 2026</div>
+    <div>Started PhD at The University of Osaka</div>
   </div>
   <div class="highlight-item">
     <div class="highlight-date">Oct 2025</div>
-    <div>Joined the Intelligence and Sensing Lab at The University of Osaka.</div>
+    <div>Joined the Intelligence and Sensing Lab at The University of Osaka as a Researcher</div>
   </div>
 </div>
 
