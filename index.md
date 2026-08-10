@@ -53,13 +53,13 @@ The University of Osaka, Japan
 
 <h3>📧 Email</h3>
 
-<a href="mailto:varsharma.tech@gmail.com"><br><br>
+<a href="mailto:varsharma.tech@gmail.com"><br>
 varsharma.tech@gmail.com
-</a>
+</a><br>
 
-<a href="mailto:varsha.sharma@is.ids.osaka-u.ac.jp">
+<a href="mailto:varsha.sharma@is.ids.osaka-u.ac.jp"><br>
 varsha.sharma@is.ids.osaka-u.ac.jp
-</a>
+</a><br>
 
 <hr>
 
@@ -67,7 +67,7 @@ varsha.sharma@is.ids.osaka-u.ac.jp
 
 🎓 <a href="https://scholar.google.com/citations?hl=en&user=fdnMEAQAAAAJ">Google Scholar</a>
 <br>
-🔗 <a href="https://www.linkedin.com/in/varsha-sharma-6aa32755/">LinkedIn</a><br>
+🔗 <a href="https://www.linkedin.com/in/varsha-sharma-6aa32755/">LinkedIn</a>
 
 </div>
 
