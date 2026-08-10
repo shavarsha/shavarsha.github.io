@@ -2,7 +2,8 @@
 layout: default
 title: Home
 ---
-<link rel="icon" type="image/png" href="/VS_favicon.png">
+<link rel="icon" type="img/png" href="/VS_favicon.png">
+
 <div style="display:flex; align-items:flex-start; gap:40px; flex-wrap:wrap;">
 
 <div style="flex:1; min-width:300px;">
