@@ -55,22 +55,16 @@ max-width:700px;
 <hr>
 
 <h3>📧 Email</h3>
-
-<a href="mailto:varsharma.tech@gmail.com"><br>
-varsharma.tech@gmail.com
-</a><br>
-
-<a href="mailto:varsha.sharma@is.ids.osaka-u.ac.jp"><br>
-varsha.sharma@is.ids.osaka-u.ac.jp
-</a><br>
+<a href="mailto:varsharma.tech@gmail.com">varsharma.tech@gmail.com</a><br>
+<a href="mailto:varsha.sharma@is.ids.osaka-u.ac.jp">varsha.sharma@is.ids.osaka-u.ac.jp</a><br>
 
 <hr>
 
 <h3> Profiles</h3>
+🎓 <a href="https://scholar.google.com/citations?hl=en&user=fdnMEAQAAAAJ">Google Scholar</a><br>
+[<img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=32">] <a href="https://www.linkedin.com/in/varsha-sharma-6aa32755/">LinkedIn</a><br>
+Rᴳ <a href="https://www.researchgate.net/profile/Varsha-Sharma-12?ev=hdr_xprf">ResearchGate</a><br>
 
-🎓 <a href="https://scholar.google.com/citations?hl=en&user=fdnMEAQAAAAJ">Google Scholar</a>
-<br>
-🔗 <a href="https://www.linkedin.com/in/varsha-sharma-6aa32755/">LinkedIn</a>
 
 </div>
 
