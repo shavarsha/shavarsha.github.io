@@ -55,4 +55,4 @@ I began my academic journey with a Bachelor of Engineering in Electronics and In
 Intelligence and Sensing Lab.<br>
 2-1 Yamadaoka, Suita, Osaka 565-0871, Japan<br>
 The University of Osaka<br>
-Email: <a href="mailto:varsha.sharma@is.ids.osaka-u.ac.jp">varsha.sharma@is.ids.osaka-u.ac.jp</a>
+Email: <a href="mailto:varsha.sharma@is.ids.osaka-u.ac.jp">varsha.sharma@is.ids.osaka-u.ac.jp</a><br>
