@@ -8,7 +8,7 @@ Hello! I am a researcher in Artificial Intelligence for Healthcare. I am current
   
 Before joining the University of Osaka, I worked at TCS Research, India, for 8 years, where I developed machine learning and signal processing-based methods for healthcare applications.<br>
 
-I began my academic journey with a Bachelor of Engineering in Electronics and Instrumentation from Samrat Ashok Technological Institute, Vidisha, India, followed by a Master of Technology in Mathematics and Computing from Indian Institute of Technology Patna, India.
+I began my academic journey with a Bachelor of Engineering in Electronics and Instrumentation from Samrat Ashok Technological Institute, Vidisha, India, followed by a Master of Technology in Mathematics and Computing from Indian Institute of Technology Patna, India.<br>
 </p>
 
 <!-- <a href="/cv.pdf" class="cv-button">📄 Download CV</a> -->
