@@ -22,6 +22,66 @@
   color: var(--text-muted);
 }
 
+/* Experience timeline */
+.exp-item {
+  padding: 14px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.exp-item:last-child {
+  border-bottom: none;
+}
+
+.exp-role {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.exp-org {
+  color: var(--accent);
+  font-size: 14px;
+}
+
+.exp-date {
+  color: var(--text-muted);
+  font-size: 13px;
+  float: right;
+}
+
+.exp-desc {
+  font-size: 14px;
+  color: #444;
+  margin-top: 4px;
+}
+
+/* Publication list */
+.pub-item {
+  padding: 12px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.pub-item:last-child {
+  border-bottom: none;
+}
+
+.pub-title {
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.pub-venue {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-top: 2px;
+}
+
+.see-all {
+  display: inline-block;
+  margin-top: 12px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
 :root {
   --accent: #0066cc;
   --bg-light: #f8f9fa;
