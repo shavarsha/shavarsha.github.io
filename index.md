@@ -7,9 +7,10 @@ title: Home
 
 <div style="flex:1; min-width:300px;">
 
-I am a researcher in Artificial Intelligence for Healthcare. I am currently pursuing my PhD in Computer Science at the University of Osaka, Japan. My research focuses on representation learning and causal reasoning to develop robust, interpretable, and generalizable AI systems. 
-<hr>
-Before joining the University of Osaka, I worked at TCS Research, India, for 8 years, where I developed machine learning and signal processing-based methods for healthcare applications. I began my academic journey with a Bachelor of Engineering in Electronics and Instrumentation from Samrat Ashok Technological Institute, Vidisha, India, followed by a Master of Technology in Mathematics and Computing from Indian Institute of Technology Patna, India.
+I am a researcher in Artificial Intelligence for Healthcare. I am currently pursuing my PhD in Computer Science at the University of Osaka, Japan. My research focuses on representation learning and causal reasoning to develop robust, interpretable, and generalizable AI systems. <br>
+
+Before joining the University of Osaka, I worked at TCS Research, India, for 8 years, where I developed machine learning and signal processing-based methods for healthcare applications. <br>
+I began my academic journey with a Bachelor of Engineering in Electronics and Instrumentation from Samrat Ashok Technological Institute, Vidisha, India, followed by a Master of Technology in Mathematics and Computing from Indian Institute of Technology Patna, India.
 
 
 <h2>Research Interests</h2><div style="margin-top:15px;">
