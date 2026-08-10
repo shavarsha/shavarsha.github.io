@@ -2,6 +2,20 @@
 layout: default
 title: Home
 ---
+<div class="stats-row">
+  <div class="stat-item">
+    <span class="stat-number">9+</span>
+    <span class="stat-label">Years in AI Research</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-number">15+</span>
+    <span class="stat-label">Publications</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-number">7</span>
+    <span class="stat-label">Patents</span>
+  </div>
+</div>
 
 <p>
 Hello! I am a researcher in Artificial Intelligence for Healthcare. I am currently pursuing my PhD in Computer Science at The University of Osaka, Japan. My research focuses on representation learning and causal reasoning to develop robust, interpretable, and generalizable AI systems.<br>
