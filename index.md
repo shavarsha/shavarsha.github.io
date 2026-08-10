@@ -38,7 +38,9 @@ I began my academic journey with a Bachelor of Engineering in Electronics and In
 <h2>Research Interests</h2>
 <div style="margin-top:15px;">
   <span class="tag-pill">Machine Learning for Healthcare</span>
-  <span class="tag-pill">Representation Reliability</span>
+  <span class="tag-pill">Representation Learning</span>
+  <span class="tag-pill">Reliability and Generalization</span>
+  <span class="tag-pill">Causal Reasoning</span>
   <span class="tag-pill">Time-series Modelling</span>
   <span class="tag-pill">Wearable Sensing</span>
   <span class="tag-pill">Digital Biomarkers</span>
