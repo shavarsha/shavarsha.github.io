@@ -61,9 +61,10 @@ max-width:700px;
 <hr>
 
 <h3> Profiles</h3>
-🎓 <a href="https://scholar.google.com/citations?hl=en&user=fdnMEAQAAAAJ">Google Scholar</a><br>
+<img src="https://www.google.com/s2/favicons?domain=scholar.google.com&sz=18"> <a href="https://scholar.google.com/citations?hl=en&user=fdnMEAQAAAAJ">Google Scholar</a><br>
 <img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=18"> <a href="https://www.linkedin.com/in/varsha-sharma-6aa32755/">LinkedIn</a><br>
-Rᴳ <a href="https://www.researchgate.net/profile/Varsha-Sharma-12?ev=hdr_xprf">ResearchGate</a><br>
+<img src="https://www.google.com/s2/favicons?domain=researchgate.net&sz=18"> <a href="https://www.researchgate.net/profile/Varsha-Sharma-12?ev=hdr_xprf">ResearchGate</a><br>
+<img src="https://www.google.com/s2/favicons?domain=orcid.org&sz=18"><a href="https://orcid.org/my-orcid?orcid=0009-0000-6685-0508">Orcid</a><br>
 
 
 </div>
