@@ -60,11 +60,11 @@ Before joining UOsaka, I worked at <a href="https://www.tcs.com/what-we-do/tcs-r
 <div class="card">
   <div class="highlight-item">
     <div class="highlight-date">Aug 2026</div>
-    <div>Co-organizing workshop "Multimodal AI for Science and Real World" at ACCV 2026</div>
+    <div>Co-organizing workshop <a href= "https://mm4scireal.github.io/">Multimodal AI for Science and Real World</a> at ACCV 2026</div>
   </div>
   <div class="highlight-item">
     <div class="highlight-date">Jun 2026</div>
-    <div>Co-organizing workshop "Automated Machine Learning for Pervasive Sensing" at IEEE PERCOM 2027</div>
+    <div>Co-organizing workshop <a href= "https://sites.google.com/view/automlpersys2027/home?authuser=0">Automated Machine Learning for Pervasive Sensing</a> at IEEE PERCOM 2027</div>
   </div>
     <div class="highlight-item">
     <div class="highlight-date">Apr 2026</div>
