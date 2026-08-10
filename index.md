@@ -63,11 +63,11 @@ varsha.sharma@is.ids.osaka-u.ac.jp
 
 <hr>
 
-<h3>🔗 Profiles</h3>
+<h3> Profiles</h3>
 
 🎓 <a href="https://scholar.google.com/citations?hl=en&user=fdnMEAQAAAAJ">Google Scholar</a>
-<br><br>
-🔗 <a href="https://www.linkedin.com/in/varsha-sharma-6aa32755/">LinkedIn</a>
+<br>
+🔗 <a href="https://www.linkedin.com/in/varsha-sharma-6aa32755/">LinkedIn</a><br>
 
 </div>
 
