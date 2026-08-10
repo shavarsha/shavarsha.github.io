@@ -45,9 +45,12 @@ max-width:700px;
 ">
 
 <h3>📍 Location</h3>
-Intelligence and Sensing Lab<br>
-Graduate School of Information Science and Technology<br>
-The University of Osaka, Japan
+<!-- Intelligence and Sensing Lab<br> -->
+<a href="https://is.d3c.osaka-u.ac.jp/en/">Intelligence and Sensing Lab</a><br>
+<!-- Graduate School of Information Science and Technology<br> -->
+<a href="https://www.ist.osaka-u.ac.jp/english/">Graduate School of Information Science and Technology</a><br>
+<!-- The University of Osaka, Japan -->
+<a href="https://www.osaka-u.ac.jp/en">The University of Osaka, Japan</a><br>
 
 <hr>
 
