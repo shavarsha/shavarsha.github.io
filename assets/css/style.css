@@ -44,7 +44,7 @@
 
 .exp-date {
   color: var(--text-muted);
-  font-size: 13px;
+  font-size: 14px;
   float: right;
 }
 
@@ -218,7 +218,7 @@ body {
 .highlight-date {
   min-width: 90px;
   color: var(--text-muted);
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 500;
 }
 
