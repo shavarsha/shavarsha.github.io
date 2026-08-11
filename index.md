@@ -68,11 +68,11 @@ Before joining UOsaka, I worked at <a href="https://www.tcs.com/what-we-do/tcs-r
   </div>
     <div class="highlight-item">
     <div class="highlight-date">Apr 2026</div>
-    <div>Started PhD at The University of Osaka</div>
+    <div>Started PhD at The University of Osaka,</div>
   </div>
   <div class="highlight-item">
     <div class="highlight-date">Oct 2025</div>
-    <div>Joined the Intelligence and Sensing Lab.<br> </div>
+    <div>Joined the Intelligence and Sensing Lab. at The University of Osaka.<br> </div>
   </div>
 </div>
 
@@ -84,7 +84,7 @@ Before joining UOsaka, I worked at <a href="https://www.tcs.com/what-we-do/tcs-r
   <img src="https://www.google.com/s2/favicons?domain=www.ist.osaka-u.ac.jp&sz=20"> <a href="https://www.ist.osaka-u.ac.jp/english/">Graduate School of Information Science and Technology</a><br>
   <a href="https://www.osaka-u.ac.jp/en">The University of Osaka, Japan</a> -->
 
-Intelligence and Sensing Lab.<br>
+📍Intelligence and Sensing Lab.<br>
 2-1 Yamadaoka, Suita, Osaka 565-0871, Japan<br>
 The University of Osaka<br>
 Email: <a href="mailto:varsha.sharma@is.ids.osaka-u.ac.jp">varsha.sharma@is.ids.osaka-u.ac.jp</a><br>
