@@ -14,7 +14,7 @@ title: Home
 </div>
 
 <p>
-Hello there! I am an AI researcher with over 8 years of experience building machine learning systems for healthcare sensing and biomedical signal analysis — from raw sensor data to models deployed on edge devices for real-time health monitoring. I am currently a PhD student at the <a href="https://is.d3c.osaka-u.ac.jp/en/">Intelligence and Sensing Lab.</a>, The University of Osaka, Japan, where my work focuses on representation learning and causal reasoning to develop robust, interpretable, and generalizable AI systems.
+Hello there! I am an AI researcher with over 8 years of experience building machine learning systems for healthcare sensing and biomedical signal analysis, including models deployed on edge devices for real-time health monitoring. I am currently a PhD student at the <a href="https://is.d3c.osaka-u.ac.jp/en/">Intelligence and Sensing Lab.</a>, The University of Osaka, Japan, where my work focuses on representation learning and causal reasoning to develop robust, interpretable, and generalizable AI systems.
 
 Before joining UOsaka, I worked at <a href="https://www.tcs.com/what-we-do/tcs-research-and-innovation">TCS Research</a>, India. I began my academic journey with a Bachelor of Engineering in Electronics and Instrumentation from Samrat Ashok Technological Institute, Vidisha, India (2013), followed by a Master of Technology in Mathematics and Computing from the <a href= "https://www.iitp.ac.in/">Indian Institute of Technology Patna</a>, India (2017).
 </p>
