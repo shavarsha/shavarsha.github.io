@@ -51,7 +51,7 @@ Before joining UOsaka, I worked at <a href="https://www.tcs.com/what-we-do/tcs-r
     <span class="exp-date">Jul 2017 – Aug 2018</span>
     <div class="exp-role">TCS Research, India — Embedded Devices & Intelligent Systems Group</div>
     <div class="exp-org">Developer</div>
-    <div class="exp-desc">Developed ML solutions for cardiac, stress, and gait sensing deployed on wearable and edge devices.</div>
+    <div class="exp-desc">Developed ML solutions driving behavior and mode of transportation classification.</div>
   </div>
 </div>
 
