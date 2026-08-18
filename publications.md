@@ -21,6 +21,11 @@ title: Publications
   *IEEE Sensors Journal*, October 2024.<br>
   DOI: 10.1109/JSEN.2024.3475908
 
+* **BioAgeNet: An Age-Informed Convolutional Autoencoder for ECG Clustering Indicating Health**<br>
+   <span style="color:#0066cc;"><strong>Varsha Sharma</strong></span>, Avik Ghose.<br>
+  *IEEE EMBC*, July 2024.
+  DOI: 10.1109/EMBC53108.2024.1078150
+
 * **Demo: Atrial Fibrillation Burden Computation from Single-Lead ECG on Device**<br>
   <span style="color:#0066cc;"><strong>Varsha Sharma</strong></span>, Avik Ghose <br>
   *IEEE Sensors JournalACM Embedded Networked Sensor Systems (SenSys)*, November 2023.<br>
