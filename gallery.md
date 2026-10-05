@@ -27,7 +27,7 @@ permalink: /gallery/
 
    <div class="collage-item">
     <img src="/assets/img/IMG_0983.jpg" alt="Photo 5">
-    <p>IEEE EMBC 2025 (Orlando, US).</p>
+    <p>ACM SenSys 2023 (Istanbul, Turkiye).</p>
   </div>
 
   <div class="collage-item">
@@ -37,12 +37,12 @@ permalink: /gallery/
   
    <div class="collage-item">
     <img src="/assets/img/C20B8C62-83F2-4C27-9C92-9A7834C079A2.JPG" alt="Photo 6">
-    <p>ACM SenSys 2023 (Istanbul, Turkiye)</p>
+    <p>IEEE EMBC 2024 (Orlando, US)</p>
   </div>
   
    <div class="collage-item">
     <img src="/assets/img/IMG_0939.jpg" alt="Photo 7">
-    <p>Hagia Sophia Grand Mosque,Turkiye .</p>
+    <p>Hagia Sophia Grand Mosque 2023 (Istanbul, Turkiye) </p>
   </div>
 
 </div>
