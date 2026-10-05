@@ -12,12 +12,12 @@ permalink: /gallery/
 
   <div class="collage-item">
     <img src="/assets/img/IMG_4539.jpg" alt="Photo 1">
-    <p>Presenting our work at IJCAI 2025.</p>
+    <p>IEEE EMBC 2025 (Orlando, US).</p>
   </div>
 
   <div class="collage-item">
     <img src="/assets/img/IMG_4528.jpg" alt="Photo 2">
-    <p>Conference moments with colleagues.</p>
+    <p>ACM MobiSys 2024 (Tokyo, Japan), Gala Dinner.</p>
   </div>
 
   <div class="collage-item">
