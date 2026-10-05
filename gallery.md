@@ -22,22 +22,22 @@ permalink: /gallery/
 
   <div class="collage-item">
     <img src="/assets/img/IMG_3497.jpg" alt="Photo 3">
-    <p>Research presentation session.</p>
+    <p>IEEE EMBC 2025 (Orlando, US)</p>
   </div>
 
   <div class="collage-item">
     <img src="/assets/img/1718029170623.jpeg" alt="Photo 4">
-    <p>At the conference venue.</p>
+    <p>ACM MobiSys 2024 (Tokyo, Japan).</p>
   </div>
   
    <div class="collage-item">
     <img src="/assets/img/C20B8C62-83F2-4C27-9C92-9A7834C079A2.JPG" alt="Photo 4">
-    <p>At the conference venue.</p>
+    <p>ACM SenSys 2023 (Istanbul, Turkiye)</p>
   </div>
   
    <div class="collage-item">
     <img src="/assets/img/IMG_0939.jpg" alt="Photo 4">
-    <p>At the conference venue.</p>
+    <p>Hagia Sophia Grand Mosque,Turkiye .</p>
   </div>
 
 </div>
