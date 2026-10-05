@@ -25,6 +25,11 @@ permalink: /gallery/
     <p>IEEE EMBC 2025 (Orlando, US)</p>
   </div>
 
+   <div class="collage-item">
+    <img src="/assets/img/IMG_0983.jpg" alt="Photo 1">
+    <p>IEEE EMBC 2025 (Orlando, US).</p>
+  </div>
+
   <div class="collage-item">
     <img src="/assets/img/1718029170623.jpeg" alt="Photo 4">
     <p>ACM MobiSys 2024 (Tokyo, Japan).</p>
