@@ -4,7 +4,7 @@ title: "Gallery"
 permalink: /gallery/
 ---
 
-## Conference & Research Moments
+## Conference Moments
 
 <div class="collage">
 
