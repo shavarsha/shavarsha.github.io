@@ -17,7 +17,7 @@ permalink: /gallery/
 
   <div class="collage-item">
     <img src="/assets/img/IMG_4528.jpg" alt="Photo 3">
-    <p>ACM MobiSys 2024 (Tokyo, Japan), Gala Dinner.</p>
+    <p>IEEE EMBC 2024 (Orlando, US).</p>
   </div>
 
   <div class="collage-item">
