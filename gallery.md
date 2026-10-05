@@ -16,12 +16,12 @@ permalink: /gallery/
   </div>
 
   <div class="collage-item">
-    <img src="/assets/img/IMG_4528.jpg" alt="Photo 2">
+    <img src="/assets/img/IMG_4528.jpg" alt="Photo 3">
     <p>ACM MobiSys 2024 (Tokyo, Japan), Gala Dinner.</p>
   </div>
 
   <div class="collage-item">
-    <img src="/assets/img/IMG_3497.jpg" alt="Photo 3">
+    <img src="/assets/img/IMG_3497.jpg" alt="Photo 2">
     <p>IEEE EMBC 2025 (Orlando, US)</p>
   </div>
 
