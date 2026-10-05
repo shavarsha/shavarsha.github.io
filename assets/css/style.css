@@ -243,15 +243,43 @@ body {
 }
 
 
-.collage img {
-  width: 100%;
-  margin-bottom: 12px;
-  border-radius: 8px;
-  display: block;
+.collage {
+  column-count: 3;
+  column-gap: 12px;
+}
+
+.collage-item {
   break-inside: avoid;
+  margin-bottom: 16px;
+}
+
+.collage-item img {
+  width: 100%;
+  display: block;
+  border-radius: 8px;
   transition: transform 0.2s ease;
 }
 
-.collage img:hover {
+.collage-item img:hover {
   transform: scale(1.02);
+}
+
+.collage-item p {
+  margin: 6px 2px 0 2px;
+  font-size: 0.9rem;
+  color: #555;
+  text-align: center;
+  line-height: 1.3;
+}
+
+@media (max-width: 900px) {
+  .collage {
+    column-count: 2;
+  }
+}
+
+@media (max-width: 550px) {
+  .collage {
+    column-count: 1;
+  }
 }
