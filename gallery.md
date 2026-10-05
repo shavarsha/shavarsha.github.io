@@ -9,13 +9,13 @@ permalink: /gallery/
 <div class="gallery-grid">
 
   <div class="gallery-item">
-    <img src="/images/photo1.jpg" alt="Conference photo 1">
+    <img src="/assets/img/IMG_4528.jpg" alt="IEEE EMBC 2024">
     <p>Conference presentation, 2025.</p>
   </div>
 
   <div class="gallery-item">
-    <img src="/images/photo2.jpg" alt="Conference photo 2">
-    <p>With colleagues at the conference.</p>
+    <img src="/assets/img/IMG_3497.jpg" alt="ACM MobiSys 2024">
+    <p>Gala Dinner, Japan.</p>
   </div>
 
   <div class="gallery-item">
