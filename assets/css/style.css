@@ -243,15 +243,15 @@ body {
 }
 
 
-.collage {
-  column-count: 3;
-  column-gap: 12px;
-}
-
 .collage img {
   width: 100%;
   margin-bottom: 12px;
-  border-radius: 6px;
+  border-radius: 8px;
   display: block;
   break-inside: avoid;
+  transition: transform 0.2s ease;
+}
+
+.collage img:hover {
+  transform: scale(1.02);
 }
