@@ -27,7 +27,7 @@ permalink: /gallery/
 
    <div class="collage-item">
     <img src="/assets/img/IMG_0983.jpg" alt="Photo 5">
-    <p>ACM SenSys 2023 (Istanbul, Turkiye).</p>
+    <p>ACM SenSys 2023 (Istanbul, Turkiye), won best demo award</p>
   </div>
 
   <div class="collage-item">
